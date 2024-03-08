@@ -1,5 +1,7 @@
 import math
 # --------
+# Made By Meshojs @ github || follow for more <3
+# --------
 class BinarySearch:
     def __init__(self  , right):
         self.right = right
